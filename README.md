@@ -18,4 +18,6 @@ create-react-native-app globo
 
 
 npm install -g react-devtools
+
+yarn start
 ```
