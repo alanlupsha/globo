@@ -60,3 +60,4 @@ adb devices | grep emulator | cut -f1 | while read line; do adb -s $line emu kil
 c:\androidsdk\emulator\emulator.exe -avd Nexus_5X_API_28_x86
 # or from Git Bash / Visual Studio Code terminal:
 /c/androidsdk/emulator/emulator.exe -avd Nexus_5X_API_28_x86
+/c/androidsdk/emulator/emulator.exe -avd nexus4
